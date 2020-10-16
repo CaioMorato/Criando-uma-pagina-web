@@ -1,2 +1,2 @@
 # Criando-uma-pagina-web
-Aprendendo a criar uma página web
+Estou aprendendo a usar HTML, CSS .JS e o GITHUB
